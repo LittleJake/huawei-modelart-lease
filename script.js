@@ -1,8 +1,7 @@
 // ==UserScript==
 // @name         华为ModelArt自动续期
-// @namespace    http://tampermonkey.net/
 // @version      1.0
-// @namespace https://greasyfork.org/users/773473
+// @namespace    https://greasyfork.org/users/773473
 // @license      Apache2.0
 // @description  华为ModelArt自动续期，适用于北京4免费节点。
 // @author       LittleJake
