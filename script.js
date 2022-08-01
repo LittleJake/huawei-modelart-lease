@@ -5,7 +5,7 @@
 // @license      Apache2.0
 // @description  华为ModelArt自动续期，适用于北京4免费节点。
 // @author       LittleJake
-// @match        https://authoring-modelarts-cnnorth4.huaweicloud.com/
+// @match        https://authoring-modelarts-cnnorth4.huaweicloud.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=huaweicloud.com
 // @grant        none
 // ==/UserScript==
